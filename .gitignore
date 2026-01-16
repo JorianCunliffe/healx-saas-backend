@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Environment Variables & Secrets (CRITICAL)
+.env
+firebase_credentials.json
+
+# Docker
+docker-compose.override.yml
+
+# IDEs
+.vscode/
+.idea/

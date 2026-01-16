@@ -1,0 +1,5 @@
+{
+  "name": "HealX Backend",
+  "description": "High-throughput health data ingestion service using FastAPI, SQLAlchemy Async, and Firebase Storage.",
+  "requestFramePermissions": []
+}
